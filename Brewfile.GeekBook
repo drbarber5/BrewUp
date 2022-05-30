@@ -12,7 +12,7 @@ brew "neofetch"
 brew "nmap"
 cask "font-hack-nerd-font"
 cask "git-credential-manager-core"
-mas "1Password 7", id: 1333542190
+mas "1Password for Safari", id: 1569813296
 mas "Adobe Lightroom", id: 1451544217
 mas "Apple Configurator", id: 1037126344
 mas "Cardhop", id: 1290358394
