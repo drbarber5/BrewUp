@@ -9,7 +9,8 @@ brew "lua"
 brew "mas"
 brew "nmap"
 cask "font-hack-nerd-font"
-cask "git-credential-manager-core"
+cask "git-credential-manager"
+cask "git-credential-manager"
 mas "1Password for Safari", id: 1569813296
 mas "Adobe Lightroom", id: 1451544217
 mas "Cardhop", id: 1290358394
