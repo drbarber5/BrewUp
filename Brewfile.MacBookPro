@@ -14,7 +14,7 @@ cask "git-credential-manager"
 mas "1Password for Safari", id: 1569813296
 mas "Adobe Lightroom", id: 1451544217
 mas "Cardhop", id: 1290358394
-mas "CARROT Weather", id: 993487541
+mas "CARROTweather", id: 993487541
 mas "Coming soon 3", id: 499829904
 mas "Darkroom", id: 953286746
 mas "Day One", id: 1055511498
@@ -41,15 +41,15 @@ mas "Microsoft Word", id: 462054704
 mas "Mimeo Photos", id: 1282504627
 mas "Molar", id: 882467709
 mas "NewsGuard", id: 1438657064
-mas "Night Sky", id: 475772902
+mas "Night Sky X", id: 475772902
 mas "Numbers", id: 409203825
 mas "Okta Extension App", id: 1439967473
 mas "OneDrive", id: 823766827
 mas "Pages", id: 409201541
 mas "PCalc", id: 403504866
 mas "Pocket", id: 568494494
-mas "Popcorn for Safari", id: 1535719670
-mas "Prime Video", id: 545519333
+mas "Popcorn", id: 1535719670
+mas "PrimeVideo", id: 545519333
 mas "Save to Pocket", id: 1477385213
 mas "Skitch", id: 425955336
 mas "Speedtest", id: 1153157709
