@@ -1,0 +1,55 @@
+tap "microsoft/git"
+brew "coreutils"
+brew "fastfetch"
+brew "fortune"
+brew "fzf"
+brew "git"
+brew "lua"
+brew "mas"
+brew "nmap"
+cask "font-hack-nerd-font"
+cask "git-credential-manager"
+cask "git-credential-manager"
+mas "1Password for Safari", id: 1569813296
+mas "Adobe Lightroom", id: 1451544217
+mas "Cardhop", id: 1290358394
+mas "CARROTweather", id: 993487541
+mas "Coming soon 3", id: 499829904
+mas "Darkroom", id: 953286746
+mas "Day One", id: 1055511498
+mas "Fantastical", id: 975937182
+mas "Find movies", id: 1107657424
+mas "Friendly Streaming", id: 553245401
+mas "Goodnotes", id: 1444383602
+mas "Grammarly for Safari", id: 1462114288
+mas "Helium", id: 1054607607
+mas "HP", id: 1474276998
+mas "HP Easy Scan", id: 967004861
+mas "iMovie", id: 408981434
+mas "Infltr", id: 935623257
+mas "Intensify", id: 716854513
+mas "Keynote", id: 409183694
+mas "LiquidText", id: 922765270
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Outlook", id: 985367838
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Microsoft To Do", id: 1274495053
+mas "Microsoft Word", id: 462054704
+mas "Mimeo Photos", id: 1282504627
+mas "Molar", id: 882467709
+mas "NewsGuard", id: 1438657064
+mas "Night Sky X", id: 475772902
+mas "Numbers", id: 409203825
+mas "Okta Extension App", id: 1439967473
+mas "OneDrive", id: 823766827
+mas "Pages", id: 409201541
+mas "PCalc", id: 403504866
+mas "Pocket", id: 568494494
+mas "Popcorn", id: 1535719670
+mas "PrimeVideo", id: 545519333
+mas "Skitch", id: 425955336
+mas "Speedtest", id: 1153157709
+mas "Usage", id: 1561788435
+mas "VPN Unlimited", id: 727593140
