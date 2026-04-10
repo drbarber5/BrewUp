@@ -8,8 +8,6 @@ brew "lua"
 brew "mas"
 brew "nmap"
 cask "font-hack-nerd-font"
-cask "git-credential-manager"
-cask "git-credential-manager"
 mas "1Password for Safari", id: 1569813296
 mas "Adobe Lightroom", id: 1451544217
 mas "Cardhop", id: 1290358394
@@ -34,7 +32,6 @@ mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Outlook", id: 985367838
 mas "Microsoft PowerPoint", id: 462062816
-mas "Microsoft Remote Desktop", id: 1295203466
 mas "Microsoft To Do", id: 1274495053
 mas "Microsoft Word", id: 462054704
 mas "Mimeo Photos", id: 1282504627
@@ -53,3 +50,4 @@ mas "Skitch", id: 425955336
 mas "Speedtest", id: 1153157709
 mas "Usage", id: 1561788435
 mas "VPN Unlimited", id: 727593140
+mas "Windows App", id: 1295203466
