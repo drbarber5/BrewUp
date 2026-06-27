@@ -1,4 +1,4 @@
-tap "microsoft/git"
+tap "microsoft/git", trusted: true
 # GNU File, Shell, and Text utilities
 brew "coreutils"
 # Powerful, lightweight programming language
